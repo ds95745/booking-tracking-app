@@ -50,6 +50,5 @@ app.*.map.json
 
 # Screenshots - Allow PNG and JPG files in screenshots folder
 # Screenshots ko add karo: git add screenshots/*.png
-screenshots/*.png
-screenshots/*.jpg
-!screenshots/README.md
+# Note: Screenshots are tracked, only .DS_Store is ignored
+screenshots/.DS_Store
