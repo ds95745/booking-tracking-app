@@ -144,7 +144,14 @@ flutter pub get
 flutter run
 ```
 
-## 📱 Platform Support
+## 🧪 Backend
+
+- Mock API using `Future.delayed`
+- In-memory data storage using `SharedPreferences`
+- Easily replaceable with real backend or Firebase
+- Ready for API integration (just replace mock services)
+
+## 📱 Platforms Supported
 
 - ✅ **Android** (API 21+)
 - ✅ **iOS** (12.0+)
@@ -276,11 +283,13 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👤 Author
+## 👨‍💻 Author
 
-**ds95745@gmail.com**
+**Dilpreet Singh**  
+Flutter App Developer
 
-- GitHub: [@ds95745](https://github.com/ds95745)
+- 📧 Email: ds95745@gmail.com
+- 🐙 GitHub: [@ds95745](https://github.com/ds95745)
 
 ## 🙏 Acknowledgments
 
