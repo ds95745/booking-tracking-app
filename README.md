@@ -182,50 +182,54 @@ Perfect for showcasing Flutter development expertise to potential clients and em
 
 ## 📸 Screenshots
 
-(Add screenshots or screen recording here)
-
-> **Note**: Screenshots add karne ke liye `HOW_TO_ADD_SCREENSHOTS.md` file check karein.
-
 ### Login Screen
+![Login Screen](screenshots/login_screen.png)
 - Clean login interface with form validation
 - Email and password fields
 - Demo mode indicator
 
 ### Home Screen
+![Home Screen](screenshots/home_screen.png)
 - Welcome card with gradient
 - Quick action buttons
 - Navigation drawer
 
 ### Create Booking
+![Create Booking](screenshots/create_booking.png)
 - Interactive Google Maps location picker
 - Real-time address geocoding
 - Date & time picker
 - Notes field
 
 ### Location Picker
+![Location Picker](screenshots/location_picker.png)
 - Google Maps integration
 - Address geocoding
 - Draggable markers
 
 ### Booking History
+![Booking History](screenshots/booking_history.png)
 - List view with all bookings
 - Status filters
 - Color-coded status chips
 - Floating action button
 
 ### Booking Details
+![Booking Details](screenshots/booking_details.png)
 - Map preview with route
 - Complete booking information
 - Status change button
 - Start tracking button
 
 ### Live Tracking
+![Live Tracking](screenshots/live_tracking.png)
 - Real-time marker movement
 - Route visualization
 - Traveled path vs remaining route
 - Auto camera following
 
 ### Status Management
+![Status Change](screenshots/status_change.png)
 - Status change dialog
 - Color-coded status indicators
 - Status flow visualization
