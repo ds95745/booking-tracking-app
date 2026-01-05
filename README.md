@@ -162,57 +162,67 @@ flutter run
 
 ## 📸 Screenshots
 
+> **Note**: Screenshots add karne ke liye `HOW_TO_ADD_SCREENSHOTS.md` file check karein.
+
 ### Login Screen
-![Login Screen](screenshots/login_screen.png)
+![Login Screen](https://via.placeholder.com/400x800/2196F3/FFFFFF?text=Login+Screen)
 - Clean login interface with form validation
 - Email and password fields
 - Demo mode indicator
 
 ### Home Screen
-![Home Screen](screenshots/home_screen.png)
+![Home Screen](https://via.placeholder.com/400x800/4CAF50/FFFFFF?text=Home+Screen)
 - Welcome card with gradient
 - Quick action buttons
 - Navigation drawer
 
 ### Create Booking
-![Create Booking](screenshots/create_booking.png)
+![Create Booking](https://via.placeholder.com/400x800/FF9800/FFFFFF?text=Create+Booking)
 - Interactive Google Maps location picker
 - Real-time address geocoding
 - Date & time picker
 - Notes field
 
 ### Location Picker
-![Location Picker](screenshots/location_picker.png)
+![Location Picker](https://via.placeholder.com/400x800/9C27B0/FFFFFF?text=Location+Picker)
 - Google Maps integration
 - Address geocoding
 - Draggable markers
 
 ### Booking History
-![Booking History](screenshots/booking_history.png)
+![Booking History](https://via.placeholder.com/400x800/2196F3/FFFFFF?text=Booking+History)
 - List view with all bookings
 - Status filters
 - Color-coded status chips
 - Floating action button
 
 ### Booking Details
-![Booking Details](screenshots/booking_details.png)
+![Booking Details](https://via.placeholder.com/400x800/4CAF50/FFFFFF?text=Booking+Details)
 - Map preview with route
 - Complete booking information
 - Status change button
 - Start tracking button
 
 ### Live Tracking
-![Live Tracking](screenshots/live_tracking.png)
+![Live Tracking](https://via.placeholder.com/400x800/FF9800/FFFFFF?text=Live+Tracking)
 - Real-time marker movement
 - Route visualization
 - Traveled path vs remaining route
 - Auto camera following
 
 ### Status Management
-![Status Change](screenshots/status_change.png)
+![Status Change](https://via.placeholder.com/400x800/9C27B0/FFFFFF?text=Status+Change)
 - Status change dialog
 - Color-coded status indicators
 - Status flow visualization
+
+---
+
+**Screenshots add karne ke liye:**
+1. App run karo aur screenshots lein
+2. Screenshots ko `screenshots/` folder mein add karo
+3. Files ko git mein add karo: `git add screenshots/*.png`
+4. Commit aur push karo
 
 ## 🔧 Code Quality
 
