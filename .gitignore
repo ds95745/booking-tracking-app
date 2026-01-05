@@ -5,11 +5,9 @@
 *.swp
 .DS_Store
 .atom/
-.build/
 .buildlog/
 .history
 .svn/
-.swiftpm/
 migrate_working_dir/
 
 # IntelliJ related
@@ -50,3 +48,8 @@ app.*.map.json
 *.freezed.dart
 *.config.dart
 
+# Screenshots - Keep the folder but ignore if empty
+# Add your screenshots to this folder
+screenshots/*.png
+screenshots/*.jpg
+!screenshots/README.md
