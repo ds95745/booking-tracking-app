@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📦 Booking & Tracking App
 
 A production-ready Flutter application for booking and tracking deliveries using **Clean Architecture** principles.
@@ -282,3 +283,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ⭐ If you like this project, please give it a star!
 
 Built with ❤️ using Flutter and Clean Architecture
+=======
+# booking-tracking-app
+A Flutter Booking &amp; Tracking app with Google Maps, status flow, booking history, and mock API using clean architecture.
+>>>>>>> 95b0d114e69b9828acd91c80a94e03d3b49651e7
