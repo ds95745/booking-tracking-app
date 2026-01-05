@@ -183,53 +183,53 @@ Perfect for showcasing Flutter development expertise to potential clients and em
 ## 📸 Screenshots
 
 ### Login Screen
-![Login Screen](screenshots/login_screen.png)
+<img src="screenshots/login_screen.png" width="300" alt="Login Screen">
 - Clean login interface with form validation
 - Email and password fields
 - Demo mode indicator
 
 ### Home Screen
-![Home Screen](screenshots/home_screen.png)
+<img src="screenshots/home_screen.png" width="300" alt="Home Screen">
 - Welcome card with gradient
 - Quick action buttons
 - Navigation drawer
 
 ### Create Booking
-![Create Booking](screenshots/create_booking.png)
+<img src="screenshots/create_booking.png" width="300" alt="Create Booking">
 - Interactive Google Maps location picker
 - Real-time address geocoding
 - Date & time picker
 - Notes field
 
 ### Location Picker
-![Location Picker](screenshots/location_picker.png)
+<img src="screenshots/location_picker.png" width="300" alt="Location Picker">
 - Google Maps integration
 - Address geocoding
 - Draggable markers
 
 ### Booking History
-![Booking History](screenshots/booking_history.png)
+<img src="screenshots/booking_history.png" width="300" alt="Booking History">
 - List view with all bookings
 - Status filters
 - Color-coded status chips
 - Floating action button
 
 ### Booking Details
-![Booking Details](screenshots/booking_details.png)
+<img src="screenshots/booking_details.png" width="300" alt="Booking Details">
 - Map preview with route
 - Complete booking information
 - Status change button
 - Start tracking button
 
 ### Live Tracking
-![Live Tracking](screenshots/live_tracking.png)
+<img src="screenshots/live_tracking.png" width="300" alt="Live Tracking">
 - Real-time marker movement
 - Route visualization
 - Traveled path vs remaining route
 - Auto camera following
 
 ### Status Management
-![Status Change](screenshots/status_change.png)
+<img src="screenshots/status_change.png" width="300" alt="Status Change">
 - Status change dialog
 - Color-coded status indicators
 - Status flow visualization
